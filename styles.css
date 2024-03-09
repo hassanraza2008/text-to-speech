@@ -98,14 +98,15 @@ select {
 
 footer {
     position: fixed;
-    top: -100;
+    bottom: 0;
     display: flex;
     background: #403d84;
     color: #fff;
-    height: 50px;
+    height: 40px;
     width: 100%;
     border: 0;
     outline: 0;
     align-items: center;
     justify-content: center;
+    z-index: 2;
 }
