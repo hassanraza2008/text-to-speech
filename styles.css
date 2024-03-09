@@ -96,3 +96,11 @@ select {
     cursor: pointer;
 }
 
+footer {
+    background: #403d84;
+    color: #fff;
+    height: 50px;
+    width: 100%;
+    border: 0;
+    outline: 0;
+}
