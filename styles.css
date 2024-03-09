@@ -97,10 +97,15 @@ select {
 }
 
 footer {
+    position: fixed;
+    top: -100;
+    display: flex;
     background: #403d84;
     color: #fff;
     height: 50px;
     width: 100%;
     border: 0;
     outline: 0;
+    align-items: center;
+    justify-content: center;
 }
